@@ -1,0 +1,40 @@
+Objetos de entrada:
+Água
+Miojo
+
+Objetos auxiliares:
+Panela
+Fogão
+
+Objetos de saída:
+Miojo cozido
+Caldo
+
+Objetos de controle:
+Tempo de cozimento
+
+Algoritmo:
+
+Encha a panela com água suficiente para cozinhar o miojo.
+
+Coloque a panela no fogão e ligue o fogo em uma temperatura média-alta.
+
+Aguarde até a água ferver.
+
+Abra o pacote de miojo e retire o tempero (se houver).
+
+Quando a água estiver fervendo, adicione o miojo na panela.
+
+Cozinhe o miojo de acordo com o tempo recomendado nas instruções da embalagem.
+
+Enquanto o miojo está cozinhando, mexa ocasionalmente para evitar que grude no fundo da panela.
+
+Após o tempo de cozimento, desligue o fogo.
+
+Use uma peneira para escorrer a água do miojo cozido, separando-o do caldo. Você pode guardar o caldo para usar como tempero, se desejar.
+
+Coloque o miojo cozido em um prato ou tigela.
+
+Se desejar, adicione o tempero do pacote ao miojo cozido e misture bem.
+
+Seu miojo está pronto para ser saboreado!
